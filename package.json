@@ -1,0 +1,20 @@
+{
+  "name": "file-crypto",
+  "version": "0.0.1",
+  "description": "crypto file with aes-256-cbc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lost613/file-crypto.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lost613/file-crypto/issues"
+  },
+  "homepage": "https://github.com/lost613/file-crypto#readme",
+  "dependencies": {}
+}
